@@ -6,7 +6,7 @@
 
 # 📌 Project Overview
 
-**Marvellous SmartHire AI Agent** is an AI-powered mock interview platform that simulates technical interviews using **Large Language Models (LLMs)**. The application asks technical questions, evaluates candidate responses using **Llama 3** running locally through **Ollama**, assigns scores, provides detailed feedback, maintains interview history, and automatically generates professional interview reports.
+** SmartHire AI Agent** is an AI-powered mock interview platform that simulates technical interviews using **Large Language Models (LLMs)**. The application asks technical questions, evaluates candidate responses using **Llama 3** running locally through **Ollama**, assigns scores, provides detailed feedback, maintains interview history, and automatically generates professional interview reports.
 
 The project demonstrates practical implementation of **Generative AI**, **AI Agents**, **Prompt Engineering**, and **LLM-based evaluation systems**.
 
@@ -36,8 +36,6 @@ The project demonstrates practical implementation of **Generative AI**, **AI Age
 * AI Agents
 * REST API
 * Object-Oriented Programming (OOP)
-
-
 
 ---
 
@@ -136,9 +134,6 @@ Final Interview Report
 **AI & Machine Learning Engineer**
 
 **Skills:** Python | Machine Learning | Deep Learning | Generative AI | AI Agents | LLMs | Prompt Engineering | NLP | TensorFlow | Streamlit | Ollama | Llama 3 | Git | GitHub
-
----
-
 
 ---
 
