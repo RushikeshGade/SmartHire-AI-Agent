@@ -1,10 +1,10 @@
 """
 ============================================================
-Marvellous SmartHire AI Agent
+SmartHire AI Agent
 ============================================================
 
 File Name    : llm_engine.py
-Author       : Piyush Manohar Khairnar
+Author       : RUSHIKESH HANUMNAT GADE
 Date         : 10/05/2026
 
 Description  :
@@ -114,6 +114,6 @@ Please check the following points carefully:
 5. Port 11434 is available
 
 ============================================================
-        Marvellous Infosystems
+      
 ============================================================
 """
