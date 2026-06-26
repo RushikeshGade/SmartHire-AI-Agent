@@ -1,9 +1,9 @@
 """
 ============================================================
-    Marvellous SmartHire AI Agent
+    SmartHire AI Agent
 ============================================================
 
-Author       : Piyush Manohar Khairnar
+Author       : RUSHIKESH HANUMANT GADE
 Date         : 10/05/2026
 
 Description  :
@@ -228,11 +228,11 @@ Give one practical suggestion to improve interview performance.
         # Create initial report
         report = f"""
 ============================================================
-              Marvellous Infosystems
+             
               AI Mock Interview Report
 ============================================================
 
-Author       : Piyush Manohar Khairnar
+Author       : RUSHIKESH HANUMANT GADE
 Date         : 10/05/2026
 
 Student Name : {self.student_name}
