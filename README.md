@@ -146,4 +146,4 @@ If you found this project useful, please **⭐ Star** the repository and feel fr
 ### 📬 Connect With Me
 
 * 💻 GitHub: https://github.com/RushikeshGade
-* 💼 LinkedIn: https://www.linkedin.com/in/rushikesh-gade-a40aaa22a/
+* 💼 LinkedIn: (https://www.linkedin.com/in/rushikesh-gade-a40aaa22a/)
