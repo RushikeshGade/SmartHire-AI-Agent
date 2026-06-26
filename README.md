@@ -6,7 +6,7 @@
 
 # 📌 Project Overview
 
-** SmartHire AI Agent** is an AI-powered mock interview platform that simulates technical interviews using **Large Language Models (LLMs)**. The application asks technical questions, evaluates candidate responses using **Llama 3** running locally through **Ollama**, assigns scores, provides detailed feedback, maintains interview history, and automatically generates professional interview reports.
+SmartHire AI Agent is an AI-powered mock interview platform that simulates technical interviews using **Large Language Models (LLMs)**. The application asks technical questions, evaluates candidate responses using **Llama 3** running locally through **Ollama**, assigns scores, provides detailed feedback, maintains interview history, and automatically generates professional interview reports.
 
 The project demonstrates practical implementation of **Generative AI**, **AI Agents**, **Prompt Engineering**, and **LLM-based evaluation systems**.
 
@@ -146,4 +146,4 @@ If you found this project useful, please **⭐ Star** the repository and feel fr
 ### 📬 Connect With Me
 
 * 💻 GitHub: https://github.com/RushikeshGade
-* 💼 LinkedIn: *(Add your LinkedIn profile URL here)*
+* 💼 LinkedIn: https://www.linkedin.com/in/rushikesh-gade-a40aaa22a/
