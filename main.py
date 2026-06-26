@@ -1,8 +1,8 @@
 """
 ============================================================
-                Marvellous SmartHire AI Agent
+                SmartHire AI Agent
 ============================================================
-Author       : Piyush Manohar Khairnar
+Author       : RUSHIKESH HANUMANT GADE
 Date         : 10/05/2026
 
 Description  :
@@ -30,12 +30,12 @@ def print_header():
     """
 
     print("=" * 70)
-    print("              Marvellous Infosystems")
+    print("             ")
     print("              AI Mock Interview Agent")
     print("              Text Based Version")
-    print("              Author : Piyush Manohar Khairnar")
+    print("              Author : RUSHIKESH HANUMANT GADE")
     print("              Date   : 10/05/2026")
-    print("              आम्ही Technical संस्कार करतो !!!")
+    print("              ")
     print("=" * 70)
 
 
@@ -121,7 +121,7 @@ def main():
 
     print_header()
 
-    print("\nWelcome to Marvellous SmartHire AI Mock Interview Agent.")
+    print("\nWelcome to SmartHire AI Mock Interview Agent.")
     print("This system conducts technical interviews using text input and LLM evaluation.")
     print("This project is designed for practical understanding of AI Agents.\n")
 
@@ -135,7 +135,7 @@ def main():
     # Create object of MockInterviewAgent
     agent = MockInterviewAgent(student_name)
 
-    print(f"\nWelcome {student_name} to Marvellous Infosystems AI Mock Interview.")
+    print(f"\nWelcome {student_name} to AI Mock Interview.")
     print("The interview will evaluate your technical answers using LLM.")
 
     while True:
@@ -209,9 +209,9 @@ def main():
 
         # Exit option
         elif choice == "3":
-            print("\nThank you for using Marvellous Infosystems AI Mock Interview Agent.")
+            print("\nThank you for using AI Mock Interview Agent.")
             print("Keep learning, keep practicing.")
-            print("आम्ही Technical संस्कार करतो !!!")
+            print("")
             break
 
         # Invalid menu option
